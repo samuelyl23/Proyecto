@@ -1,2 +1,0 @@
-# Proyecto
-practica 1
